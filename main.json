@@ -124,12 +124,6 @@
          "id":14,
          "name":"sign_02",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":""
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
@@ -176,7 +170,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/1straze.github.io\/RHRN\/welcome.html"
+                 "value":"https:\/\/1straze.github.io\/straze\/welcome.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -336,7 +330,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/1straze.github.io\/RHRN\/interview.html"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
