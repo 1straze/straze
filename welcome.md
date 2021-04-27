@@ -12,14 +12,14 @@ Wir behalten uns vor Teilnehmer:innen, die sich nicht entsprechend verhalten, zu
 
 ## Fotopolicy
 
-Wie auf sonstigen LJRMV Events auch gilt auch für die Konferenz die Fotopolicy. Falls Ihr Bilder oder Screenshots macht, bittet alle im Bild um Erlaubnis oder spart Gesichter und Nicks aus.
+Wie auf sonstigen Events in der STRAZE gilt auch hier die Fotopolicy. Falls Ihr Bilder oder Screenshots macht, bittet alle im Bild um Erlaubnis oder spart Gesichter und Nicks aus.
 
 ## Empfehlungen
 ### Hardware / Geräte
 
 Ihr braucht einen Computer oder mindestens ein Gerät mit physischer Tastatur. Ein Tablet mit Tastatur scheint zu funktionieren.
 
-Da die Konferenz ein interaktives Multiplayer-Erlebnis ist, werden Kamera und Mikrofon empfohlen. Ihr braucht sie aber nicht zwingend um teilzunehmen, Interaktionen mit anderen werden ohne aber sehr langweilig sein.
+Da die STRAZE ein interaktives Multiplayer-Erlebnis ist, werden Kamera und Mikrofon empfohlen. Ihr braucht sie aber nicht zwingend um teilzunehmen, Interaktionen mit anderen werden ohne aber sehr langweilig sein.
 ### Browser
 
 Die Konferenz sollte mit allen gängigen Browsern funktionieren, es kann aber je nach verwendetem Browser kleinere Probleme geben. Unsere Erfahrung zeigt, dass die Konferenz am besten mit Chromium funktioniert.
@@ -32,8 +32,8 @@ Ihr könnt Euch auf den Karten mittels der Pfeiltasten oder WASD bewegen. Shift 
 Um einen besseren Überblick über Karten zu bekommen, könnt ihr mittels Strg +/- zoomen, allerdings skalieren dabei auch die anderen Elemente wie Buttons, Jitsi Räume, ... mit.
 ## Interaktionen mit anderen
 
-Die Konferenz besteht aus verschiedenen Karten, die interaktive Elemente wie Webseiten, Audio oder Zoom- oder Jitsi-Räume beinhalten können sowie Interaktionen mit anderen Spieler:innen. Interaktionen öffnen sich, wenn Ihr Euch über bestimmte Bereiche bewegt oder auf andere Spieler:innen trefft.
-### Webseiten und Zoom- oder Jitsi-Räume
+Die Konferenz besteht aus verschiedenen Karten, die interaktive Elemente wie Webseiten, Audio oder Jitsi-Räume beinhalten können sowie Interaktionen mit anderen Spieler:innen. Interaktionen öffnen sich, wenn Ihr Euch über bestimmte Bereiche bewegt oder auf andere Spieler:innen trefft.
+### Webseiten und Jitsi-Räume
 
 Webseiten und Zoom- oder Jitsi-Räume öffnen sich in einem Overlay über die rechte Hälfte des Bildschirms. 
 ### Audio
@@ -49,7 +49,7 @@ Gruppenunterhaltungen deaktivieren
 Falls Ihr das Feature nicht nutzen wollt, könnt Ihr es im Hub deaktivieren.
 ## Ich sehe keine Karte / 404 / schwarzer Bildschirm
 
-Bitte checkt Eure AddOns und Script-Blocker und gebt *.play.workadventu.re. Falls das nicht hilft, könnt Ihr einen Blick in die Dev-Tools Eures Browsers werfen und dort nach Fehlern schauen.
+Bitte checkt Eure AddOns und Script-Blocker und gebt den Link zur Karte frei. Falls das nicht hilft, könnt Ihr einen Blick in die Dev-Tools Eures Browsers werfen und dort nach Fehlern schauen.
 ### Fehler melden
 
 Meldet euich gerne am Infopunkt. Sammelt vorher so viele Details wie möglich. Ein Link zur Karte, die ihr zu öffnen versucht habt, und welchen Browser ihr verwendet, ist ein guter Anfang!
