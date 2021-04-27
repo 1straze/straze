@@ -467,7 +467,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/[Base]BaseChip_pipo.png",
+         "image":"..\/straze\/[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1057,7 +1057,7 @@
         {
          "columns":9,
          "firstgid":1065,
-         "image":"..\/floor.png",
+         "image":"..\/straze\/floor.png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
@@ -1070,7 +1070,7 @@
         {
          "columns":8,
          "firstgid":1137,
-         "image":"..\/[Base]BaseChip_pipo.png",
+         "image":"..\/straze\/[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1083,7 +1083,7 @@
         {
          "columns":16,
          "firstgid":2201,
-         "image":"..\/tilesets_deviant_milkian_1.png",
+         "image":"..\/straze\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1238,7 +1238,7 @@
         {
          "columns":16,
          "firstgid":2457,
-         "image":"..\/c3gelb.png",
+         "image":"..\/straze\/c3gelb.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -1251,7 +1251,7 @@
         {
          "columns":8,
          "firstgid":3481,
-         "image":"..\/floortileset.png",
+         "image":"..\/straze\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1264,7 +1264,7 @@
         {
          "columns":16,
          "firstgid":3545,
-         "image":"..\/tilesets_fsm_rm2k3_para_vx_ace__set_hospital_by_milkian_darwnhe.png",
+         "image":"..\/straze\/tilesets_fsm_rm2k3_para_vx_ace__set_hospital_by_milkian_darwnhe.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1392,7 +1392,7 @@
         {
          "columns":16,
          "firstgid":3801,
-         "image":"..\/rc3-mullana-objects.png",
+         "image":"..\/straze\/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -1466,7 +1466,7 @@
         {
          "columns":32,
          "firstgid":3929,
-         "image":"..\/chaos_zone_shared.png",
+         "image":"..\/straze\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1652,7 +1652,7 @@
         {
          "columns":4,
          "firstgid":5977,
-         "image":"..\/fire.png",
+         "image":"..\/straze\/fire.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1665,7 +1665,7 @@
         {
          "columns":4,
          "firstgid":5993,
-         "image":"..\/Turntables_55x55px.png",
+         "image":"..\/straze\/Turntables_55x55px.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1719,7 +1719,7 @@
         {
          "columns":1,
          "firstgid":6009,
-         "image":"..\/info_sign.png",
+         "image":"..\/straze\/info_sign.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1732,7 +1732,7 @@
         {
          "columns":7,
          "firstgid":6010,
-         "image":"..\/STRAZE_banner.png",
+         "image":"..\/straze\/STRAZE_banner.png",
          "imageheight":64,
          "imagewidth":224,
          "margin":0,
