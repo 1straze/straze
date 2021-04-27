@@ -1,7 +1,7 @@
 # HowTo play
 
 
-Dieses Tutorial soll einen kurzen Überblick und Empfehlungen für eine entspannte Konferenz-Erfahrung bieten.
+Dieses Tutorial soll einen kurzen Überblick und Empfehlungen für eine entspannte STRAZE-Digital-Erfahrung bieten.
 
 ## Regeln
 **Be excellent to each other**
@@ -22,7 +22,7 @@ Ihr braucht einen Computer oder mindestens ein Gerät mit physischer Tastatur. E
 Da die STRAZE ein interaktives Multiplayer-Erlebnis ist, werden Kamera und Mikrofon empfohlen. Ihr braucht sie aber nicht zwingend um teilzunehmen, Interaktionen mit anderen werden ohne aber sehr langweilig sein.
 ### Browser
 
-Die Konferenz sollte mit allen gängigen Browsern funktionieren, es kann aber je nach verwendetem Browser kleinere Probleme geben. Unsere Erfahrung zeigt, dass die Konferenz am besten mit Chromium funktioniert.
+Die Karte sollte mit allen gängigen Browsern funktionieren, es kann aber je nach verwendetem Browser kleinere Probleme geben. Unsere Erfahrung zeigt, dass die Konferenz am besten mit Chromium funktioniert.
 ### Steuerung
 
 Ihr könnt Euch auf den Karten mittels der Pfeiltasten oder WASD bewegen. Shift gedrückt halten um zu rennen.
