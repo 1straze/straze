@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script>
+            window.onload = function() {
+                var path = window.location.pathname;
+                if (path.endsWith('index.html')) {
+                    path = path.substr(path, path.length - 'index.html'.length);
+                }
+                var url = 'https://play.workadventu.re/@/ljrmv/rhrn/gegenwartskonferenz';
+                document.getElementById('mapLink').href = url;
+                document.getElementById('mapLink').innerText = url;
+            };
+        </script>
+    </head>
+    <body>
+        This website contains the RHRN map for Workadventu.re
+        <br/>
+        You can access this map at <a id="mapLink" href=""></a>
+         <br/>
+         <br/>
+        Read more about the event <a href="https://www.ljrmv.de/ljrmv/aktuelles/meldungen/20210204_save-the-date_rhrn-Gegenwartskonferenz.php">right here</a>.
+    </body>
+</html>
